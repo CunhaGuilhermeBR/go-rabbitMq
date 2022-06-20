@@ -1,0 +1,5 @@
+## Dependências:
+
+-Golang
+-Erlang
+-RabbitMq
